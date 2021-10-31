@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EACb,GAAG,EAAE,OAAO;EACZ,cAAc,EAAE,GAAG;EACnB,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "Personajes.scss"
+    ],
+    "names": [],
+    "file": "Personajes.css"
+}
